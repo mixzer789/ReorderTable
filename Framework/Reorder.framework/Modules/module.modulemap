@@ -1,0 +1,11 @@
+framework module Reorder {
+  umbrella header "Reorder.h"
+
+  export *
+  module * { export * }
+}
+
+module Reorder.Swift {
+    header "Reorder-Swift.h"
+    requires objc
+}

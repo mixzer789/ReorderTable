@@ -1,8 +1,9 @@
 # ReorderTable
-This is Framework for drag and drop for reorder tableview
-Insprise By https://github.com/adamshin/SwiftReorder
+Framework is a UITableView extension for drag and drop for reorder
+Insprise By 
+https://github.com/adamshin/SwiftReorder
 
-To Framework By Sittichai Chumjai
+Custom For Easy Use By Sittichai Chumjai
 
 
 How To USE

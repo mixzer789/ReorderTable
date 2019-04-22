@@ -5,6 +5,7 @@ https://github.com/adamshin/SwiftReorder
 
 Custom For Easy Use By Sittichai Chumjai
 
+https://github.com/adamshin/SwiftReorder/raw/master/Resources/demo.gif
 
 How To USE
 
